@@ -1,0 +1,5 @@
+c:\users\tobias\documents\visual studio 2013\Projects\FastIM Chat\FastIM.Chat.Server\bin\Debug\FastIM.Chat.Server.dll
+c:\users\tobias\documents\visual studio 2013\Projects\FastIM Chat\FastIM.Chat.Server\bin\Debug\FastIM.Chat.Server.pdb
+c:\users\tobias\documents\visual studio 2013\Projects\FastIM Chat\FastIM.Chat.Server\obj\Debug\FastIM.Chat.Server.csprojResolveAssemblyReference.cache
+c:\users\tobias\documents\visual studio 2013\Projects\FastIM Chat\FastIM.Chat.Server\obj\Debug\FastIM.Chat.Server.dll
+c:\users\tobias\documents\visual studio 2013\Projects\FastIM Chat\FastIM.Chat.Server\obj\Debug\FastIM.Chat.Server.pdb
